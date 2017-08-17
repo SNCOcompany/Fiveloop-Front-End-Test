@@ -114,3 +114,10 @@ blockquote, q, p, li {
     width: calc(100% - 400px);
   }
 }
+
+body.design-preview {
+  background: #333;
+}
+#images-container {
+  text-align: center;
+}
